@@ -1,4 +1,4 @@
-# Conversational Bot
+# LangChain/Conversational Bot Sample
 
 ## Scope - Contrast Security & Jfrog Xray
 
@@ -35,3 +35,10 @@ Scaling/Orchestration	|Manual	|Framework handles it
     - user asks a question
     - Bot searches Vector DB for relevant chunks
     - Sends context + question + response to <GPT>
+
+
+### Bot in Action
+
+![alt text](img/image.png)
+
+![alt text](img/image-1.png)
